@@ -1,0 +1,25 @@
+body{
+    background-color: #ffff99;
+}
+h1.centras
+{
+    text-align: center;
+    color: #cc9900;
+}
+.raides
+{
+    font-size: 15pt;
+}
+img{
+    width: 300px;
+    height: 200px;
+    border: 2px solid red;
+}
+#vardas{
+    font-size: 25pt;
+    color: green;
+}
+h2.spalva
+{
+    color:#ff9999;
+}
