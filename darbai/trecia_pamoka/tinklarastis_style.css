@@ -1,0 +1,38 @@
+header.virsus{
+background-color: #ff66ff;
+border-radius: 15px;
+}
+.virsustxtl{
+display: inline-block;
+font-size: 60px;
+}
+.virsustxtr{
+display: inline-block;
+font-size: 60px;
+float: right;
+}
+.nodec{
+text-decoration: none;
+}
+.nuotraukos{
+margin: left;
+background-color: #99ccff;
+width: 700px;
+}
+body{
+background-color: #99ccff;
+}
+img{
+width: 400px;
+height: 400px;
+}
+.rastas{
+color: black;
+font-size: 20px;
+}
+h2.sarasas{
+font-size: 60px;
+}
+.listas{
+font-size: 30px;
+}
