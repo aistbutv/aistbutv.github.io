@@ -1,5 +1,5 @@
 header.virsus{
-background-color: #ff66ff;
+background-color: #669999;
 border-radius: 15px;
 }
 .virsustxtl{
@@ -14,25 +14,28 @@ float: right;
 .nodec{
 text-decoration: none;
 }
-.nuotraukos{
-margin: left;
-background-color: #99ccff;
-width: 700px;
+.korteles{
+width: 1800px;
 }
 body{
-background-color: #99ccff;
+background-color: #666699;
 }
 img{
-width: 400px;
+width: 600px;
 height: 400px;
 }
 .rastas{
 color: black;
 font-size: 20px;
+text-align: left;
+float: top;
 }
 h2.sarasas{
 font-size: 60px;
 }
 .listas{
 font-size: 30px;
+}
+.nice{
+margin-top: 20px;
 }
