@@ -1,0 +1,33 @@
+h1.pavadinimas{
+font-size: 80px;
+text-align: center;
+}
+.vidurys{
+margin: auto;
+font-size: 40px; 
+}
+img{
+width: 300px;
+height: 200px;
+}
+.riba{
+border: 1px solid black;
+}
+.langeliai{
+width: 300px;
+height: 200px;
+}
+th{
+border: solid 2px black;
+background-color: white;
+width: 300px;
+height: 200px;
+}
+body{
+background-color: #33cccc;
+}
+#vardas{
+text-align: left;
+color: green;
+font-size: 30px;
+}
